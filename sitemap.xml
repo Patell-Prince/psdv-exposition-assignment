@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Patell-Prince.github.io/psdv-exposition-assignment/blog.html</loc>
-    <lastmod>2025-02-25T11:11:24.842Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Patell-Prince.github.io/psdv-exposition-assignment/posts/welcome.html</loc>
-    <lastmod>2025-02-25T11:11:24.842Z</lastmod>
+    <loc>https://Patell-Prince.github.io/psdv-exposition-assignment/references.html</loc>
+    <lastmod>2025-02-25T11:53:16.192Z</lastmod>
   </url>
   <url>
     <loc>https://Patell-Prince.github.io/psdv-exposition-assignment/posts/visualisation.html</loc>
-    <lastmod>2025-02-25T11:11:24.842Z</lastmod>
+    <lastmod>2025-02-25T11:53:16.191Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Patell-Prince.github.io/psdv-exposition-assignment/about.html</loc>
+    <lastmod>2025-02-25T11:53:16.191Z</lastmod>
   </url>
   <url>
     <loc>https://Patell-Prince.github.io/psdv-exposition-assignment/index.html</loc>
-    <lastmod>2025-02-25T11:11:24.842Z</lastmod>
+    <lastmod>2025-02-25T11:53:16.191Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Patell-Prince.github.io/psdv-exposition-assignment/posts/welcome.html</loc>
+    <lastmod>2025-02-25T11:53:16.192Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Patell-Prince.github.io/psdv-exposition-assignment/blog.html</loc>
+    <lastmod>2025-02-25T11:53:16.191Z</lastmod>
   </url>
 </urlset>
